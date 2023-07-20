@@ -1,1 +1,1 @@
-Initial readme
+Udemy - (Bogdan Stashchuk )Python - Полный Курс по Python
