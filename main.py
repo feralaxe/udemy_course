@@ -1,16 +1,9 @@
-list = [1, 2, 3, 4, 5]
+long_str = """This is a very
+very very very very
+very very very very
+loooooooooooooooong
+string"""
 
-other_list = list
+print(long_str)
 
-print(list)
-print(other_list)
-print(id(list))
-print(id(other_list))
-
-list.pop()
-other_list.pop()
-
-print(list)
-print(other_list)
-print(id(list))
-print(id(other_list))
+print(type(long_str))
