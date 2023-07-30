@@ -1,9 +1,5 @@
-long_str = """This is a very
-very very very very
-very very very very
-loooooooooooooooong
-string"""
+base = 5
+power = 2
 
-print(long_str)
-
-print(type(long_str))
+result = pow(base, power)
+print(result, type(result))
