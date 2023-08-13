@@ -1,5 +1,3 @@
-base = 5
-power = 2
+bool_var = True
 
-result = pow(base, power)
-print(result, type(result))
+print(dir(bool_var))
