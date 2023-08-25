@@ -1,5 +1,8 @@
-bool_var = True
+test_set = set()
 
-print(dir(bool_var))
+test_set.add('123')
+test_set.add('234')
+test_set.add('345')
+test_set.add('234')
 
-print(bool_var)
+print(test_set)
