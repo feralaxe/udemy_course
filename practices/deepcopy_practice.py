@@ -9,6 +9,8 @@ my_dict['other_key'] = 'other_value'
 my_dict_shallow_copy = my_dict.copy()
 
 my_dict_shallow_copy['list1'].append('list_value3')
+my_dict_shallow_copy['list1'].append('list_value4')
+my_dict_shallow_copy['list1'].append('list_value5')
 
 # print(my_dict)
 # print(my_dict_shallow_copy)

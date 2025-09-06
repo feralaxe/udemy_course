@@ -10,3 +10,7 @@ availability_dict = dict(zip(products, availability))
 print(prices_list)
 print(prices_dict)
 print(availability_dict)
+
+# [('chocolate', '10'), ('cookies', '8'), ('cola', '5'), ('ice_cream', '12')]
+# {'chocolate': '10', 'cookies': '8', 'cola': '5', 'ice_cream': '12'}
+# {'chocolate': True, 'cookies': True, 'cola': False, 'ice_cream': True}
